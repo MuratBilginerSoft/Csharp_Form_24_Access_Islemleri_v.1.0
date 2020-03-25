@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Access İşlemleri 1", "Access İşlemleri 1\Access İşlemleri 1.csproj", "{193572BD-03C7-41E5-A95D-B1242094E416}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{193572BD-03C7-41E5-A95D-B1242094E416}.Debug|x86.ActiveCfg = Debug|x86
+		{193572BD-03C7-41E5-A95D-B1242094E416}.Debug|x86.Build.0 = Debug|x86
+		{193572BD-03C7-41E5-A95D-B1242094E416}.Release|x86.ActiveCfg = Release|x86
+		{193572BD-03C7-41E5-A95D-B1242094E416}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

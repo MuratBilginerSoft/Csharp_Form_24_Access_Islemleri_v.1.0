@@ -1,0 +1,16 @@
+C:\Users\mrt_b\Desktop\Access İşlemleri 1\Access İşlemleri 1\bin\Debug\Access İşlemleri 1.exe
+C:\Users\mrt_b\Desktop\Access İşlemleri 1\Access İşlemleri 1\bin\Debug\Access İşlemleri 1.pdb
+C:\Users\mrt_b\Desktop\Access İşlemleri 1\Access İşlemleri 1\obj\x86\Debug\Access_İşlemleri_1.Form1.resources
+C:\Users\mrt_b\Desktop\Access İşlemleri 1\Access İşlemleri 1\obj\x86\Debug\Access_İşlemleri_1.Properties.Resources.resources
+C:\Users\mrt_b\Desktop\Access İşlemleri 1\Access İşlemleri 1\obj\x86\Debug\Access İşlemleri 1.csproj.GenerateResource.Cache
+C:\Users\mrt_b\Desktop\Access İşlemleri 1\Access İşlemleri 1\obj\x86\Debug\Access İşlemleri 1.exe
+C:\Users\mrt_b\Desktop\Access İşlemleri 1\Access İşlemleri 1\obj\x86\Debug\Access İşlemleri 1.pdb
+C:\Users\mrt_b\Desktop\Access İşlemleri 1\Access İşlemleri 1\obj\x86\Debug\Access İşlemleri 1.csprojResolveAssemblyReference.cache
+E:\04 - Yazılım\04 - Form Projeleri\77 Access İşlemleri 1\Access İşlemleri 1\obj\x86\Debug\Access İşlemleri 1.exe
+E:\04 - Yazılım\04 - Form Projeleri\77 Access İşlemleri 1\Access İşlemleri 1\obj\x86\Debug\Access İşlemleri 1.pdb
+E:\04 - Yazılım\04 - Form Projeleri\77 Access İşlemleri 1\Access İşlemleri 1\obj\x86\Debug\Access İşlemleri 1.csprojResolveAssemblyReference.cache
+E:\04 - Yazılım\04 - Form Projeleri\77 Access İşlemleri 1\Access İşlemleri 1\obj\x86\Debug\Access_İşlemleri_1.Form1.resources
+E:\04 - Yazılım\04 - Form Projeleri\77 Access İşlemleri 1\Access İşlemleri 1\obj\x86\Debug\Access_İşlemleri_1.Properties.Resources.resources
+E:\04 - Yazılım\04 - Form Projeleri\77 Access İşlemleri 1\Access İşlemleri 1\obj\x86\Debug\Access İşlemleri 1.csproj.GenerateResource.Cache
+E:\04 - Yazılım\04 - Form Projeleri\77 Access İşlemleri 1\Access İşlemleri 1\bin\Debug\Access İşlemleri 1.exe
+E:\04 - Yazılım\04 - Form Projeleri\77 Access İşlemleri 1\Access İşlemleri 1\bin\Debug\Access İşlemleri 1.pdb
